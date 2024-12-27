@@ -1,2 +1,8 @@
-# Weather-API
-The Weather Display App is a responsive web application built with React.js and Material-UI that provides real-time weather updates using the OpenWeatherMap API. Users can search for any city's current weather and view details such as temperature, humidity, "feels-like" temperature, and weather descriptions. Dynamic icons adapt to weather conditions like rain, heat, or cold, enhancing the user experience. The app includes error handling, displaying a message for invalid city inputs, and features a modern, gradient-based design. It is easy to set up and run locally, requiring an API key from OpenWeatherMap. Future enhancements include geolocation support and temperature unit switching.
+# React + Vite
+
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+
+Currently, two official plugins are available:
+
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
